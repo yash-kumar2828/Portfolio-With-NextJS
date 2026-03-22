@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "BCA Notes Management System",
+    "image": "/images/BNMS.png",
+    "description": "The BCA Notes Management System is a web-based platform designed to help BCA students access subject-wise notes, Previous paper questions papers semester wise. Contact Support via email, and feedback System. It is user friendly website.",
+    "link": "http://sydreamstudy.free.nf",
+    "language": [
+      {
+        "id": 1,
+        "name": "HTML",
+        "image": "/images/html.png"
+      },
+      {
+        "id": 2,
+        "name": "CSS",
+        "image": "/images/css.png"
+      },
+      {
+        "id": 3,
+        "name": "JavaScript",
+        "image": "/images/js.png"
+      },
+      {
+        "id": 4,
+        "name": "PHP",
+        "image": "/images/php.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "College Management System",
+    "image": "/images/CMS.png",
+    "description": "College Management System is a full stack web application that simplifies college operations such as student admission, result management. The system provides seperate dashboard for students, faculty, and admin tomanage academic activities.",
+    "link": "https://college-management-system-frontend-me9s.onrender.com/",
+    "language": [
+      {
+        "id": 1,
+        "name": "React",
+        "image": "/images/react.png"
+      },
+      {
+        "id": 2,
+        "name": "Bootstrap",
+        "image": "/images/bootstrap.png"
+      },
+      {
+        "id": 3,
+        "name": "Node",
+        "image": "/images/node.png"
+      },
+      {
+        "id": 4,
+        "name": "Express",
+        "image": "/images/express.png"
+      },
+      {
+        "id": 5,
+        "name": "Mongo",
+        "image": "/images/mongo.png"
+      }
+    ]
+  }
+]
