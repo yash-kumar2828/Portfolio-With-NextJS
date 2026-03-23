@@ -137,7 +137,7 @@ const Contact = () => {
                   type="submit"
                   disabled={loading}
                 >
-                  {loading ? <LoaderOne /> : "Sign up →"}
+                  {loading ? <LoaderOne /> : "Send Message →"}
                 </button>
               </form>
             </div>
